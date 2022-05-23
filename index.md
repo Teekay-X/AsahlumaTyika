@@ -1,37 +1,31 @@
-## Welcome To my Portfolio 
+## Asahluma Tyika
 
-You can use the [editor on GitHub](https://github.com/Teekay-X/AsahlumaTyika/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I'm Asahluma Tyika , I'm a student at mpilisweni secondary school 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education 
+- Pre school >> phakamani pre-school 
+- Primary school >> cathula Primary school 
+- High school  >> Mpilisweni Secondary school
 
-### Markdown
+## Projects 
+- Killer-X
+- Mask-Url
+- X-Basic
+- Ddos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For more visit [github.com](https://github.com/Teekay-X).
 
-```markdown
-Syntax highlighted code block
+## Future Plans
 
-# Header 1
-## Header 2
-### Header 3
+The following  list are my **plans** in the next 5 years😁🤫
+- Modify KALI NETHUNTER
+- Join coding competitions 
+- Volunteer to grow as a developer 
+- Develop my own OS 
+- Work at Google 🙃
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Teekay-X/AsahlumaTyika/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Support or Contact
+- [Facebook](#)
+- [Discord](#)
+- [LinkedIn](#)
